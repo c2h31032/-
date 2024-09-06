@@ -55,15 +55,20 @@ span{
     float: left;
     background-color: rgb(143, 143, 234, 0.3);
     border-radius: 10px;
+}
+.birthday:hover{
     box-shadow: 3px 3px black;
 }
+
 .favorite{
     line-height: 60px;
     text-align: center;
     width: 20%;
     float: left;
     background-color: rgb(255, 228, 196, 0.3);
-    border-radius: 10px;
+    border-radius: 10px;  
+}
+.favorite:hover{
     box-shadow: 3px 3px black;
 }
 .syumi{
@@ -73,6 +78,8 @@ span{
     float: left;
     background-color: rgb(249, 249, 99, 0.3);
     border-radius: 10px;
+}
+.syumi:hover{
     box-shadow: 3px 3px black;
 }
 .movie{
@@ -81,7 +88,9 @@ span{
     width:20%;
     float: left;
     background-color: rgb(255, 165, 0, 0.3);
-    border-radius: 10px;
+    border-radius: 10px;   
+}
+.movie:hover{
     box-shadow: 3px 3px black;
 }
 .cat{
@@ -91,6 +100,8 @@ span{
     float: left;
     background-color: rgb(247, 105, 95, 0.3);
     border-radius: 10px;
+}
+.cat:hover{
     box-shadow: 3px 3px black;
 }
 
@@ -101,6 +112,8 @@ span{
     float: left;
     background-color: rgba(181, 255, 146, 0.3);
     border-radius: 10px;
+}
+.osake:hover{
     box-shadow: 3px 3px black;
 }
 .burando{
@@ -109,7 +122,9 @@ span{
     width: 20%;
     float: left;
     background-color: rgba(146, 250, 255, 0.3);
-    border-radius: 10px;
+    border-radius: 10px;  
+}
+.burando:hover{
     box-shadow: 3px 3px black;
 }
 .haiyuu{
@@ -118,7 +133,9 @@ span{
     width: 20%;
     float: left;
     background-color: rgba(242, 146, 255, 0.3);
-    border-radius: 10px;
+    border-radius: 10px;   
+}
+.haiyuu:hover{
     box-shadow: 3px 3px black;
 }
 .season{
@@ -127,7 +144,9 @@ span{
     width: 20%;
     float: left;
     background-color: rgba(127, 75, 249, 0.3);
-    border-radius: 10px;
+    border-radius: 10px;   
+}
+.season:hover{
     box-shadow: 3px 3px black;
 }
 .color{
@@ -137,5 +156,7 @@ span{
     float: left;
     background-color: rgba(7, 106, 255, 0.3);
     border-radius: 10px;
+} 
+.color:hover{
     box-shadow: 3px 3px black;
 }
