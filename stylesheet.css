@@ -1,0 +1,141 @@
+span{
+    color:brown
+}
+*{
+    box-sizing:border-box;
+}
+
+.clear{
+    clear: left;
+}
+.airgun-img{
+    position: fixed;
+    top: 10px;
+    left: 40px;
+    height: 100px;
+    width: 100px;
+    z-index: 0;
+    opacity: 0.3;
+}
+.myname{
+    border-bottom: 3px solid black;
+    height: 60px;
+    text-align: center;
+    max-width: 1200px;
+    width:100%;
+}
+
+.jikosyoukai-wrapper{
+    text-align: center;
+    padding: 20px;
+    line-height: 30px;
+    max-width: 1200px;
+    width:100%;
+}
+
+.faq-wrapper{
+    font-size: 20px;
+    margin-bottom: 50px;
+    padding: 10px;
+    max-width: 1200px;
+    width:100%;
+}
+.faq-wrapper h1{
+    font-size: 30px;
+    text-align: center;
+    margin: 30px;
+    max-width: 1200px;
+    width:100%;
+}
+.birthday{
+    line-height: 60px;
+    text-align: center;
+    width: 20%; 
+    height: 20%;
+    float: left;
+    background-color: rgb(143, 143, 234, 0.3);
+    border-radius: 10px;
+    box-shadow: 3px 3px black;
+}
+.favorite{
+    line-height: 60px;
+    text-align: center;
+    width: 20%;
+    float: left;
+    background-color: rgb(255, 228, 196, 0.3);
+    border-radius: 10px;
+    box-shadow: 3px 3px black;
+}
+.syumi{
+    line-height: 60px;
+    text-align: center;
+    width: 20%;
+    float: left;
+    background-color: rgb(249, 249, 99, 0.3);
+    border-radius: 10px;
+    box-shadow: 3px 3px black;
+}
+.movie{
+    line-height: 60px;
+    text-align: center;
+    width:20%;
+    float: left;
+    background-color: rgb(255, 165, 0, 0.3);
+    border-radius: 10px;
+    box-shadow: 3px 3px black;
+}
+.cat{
+    line-height: 60px;
+    text-align: center;
+    width: 20%;
+    float: left;
+    background-color: rgb(247, 105, 95, 0.3);
+    border-radius: 10px;
+    box-shadow: 3px 3px black;
+}
+
+.osake{
+    line-height: 60px;
+    text-align: center;
+    width: 20%;
+    float: left;
+    background-color: rgba(181, 255, 146, 0.3);
+    border-radius: 10px;
+    box-shadow: 3px 3px black;
+}
+.burando{
+    line-height: 60px;
+    text-align: center;
+    width: 20%;
+    float: left;
+    background-color: rgba(146, 250, 255, 0.3);
+    border-radius: 10px;
+    box-shadow: 3px 3px black;
+}
+.haiyuu{
+    line-height: 60px;
+    text-align: center;
+    width: 20%;
+    float: left;
+    background-color: rgba(242, 146, 255, 0.3);
+    border-radius: 10px;
+    box-shadow: 3px 3px black;
+}
+.season{
+    line-height: 60px;
+    text-align: center;
+    width: 20%;
+    float: left;
+    background-color: rgba(127, 75, 249, 0.3);
+    border-radius: 10px;
+    box-shadow: 3px 3px black;
+}
+.color{
+    line-height: 60px;
+    text-align: center;
+    width: 20%;
+    float: left;
+    background-color: rgba(7, 106, 255, 0.3);
+    border-radius: 10px;
+    box-shadow: 3px 3px black;
+}
